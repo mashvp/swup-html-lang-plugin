@@ -9,13 +9,13 @@ This plugin will update the `lang` attribute of the HTML node after navigation, 
 This plugin can be installed with npm
 
 ```bash
-npm install swup-html-lang-plugin
+npm install @mashvp/swup-html-lang-plugin
 ```
 
 and included with import
 
 ```javascript
-import SwupHtmlLangPlugin from 'swup-html-lang-plugin';
+import SwupHtmlLangPlugin from '@mashvp/swup-html-lang-plugin';
 ```
 
 or included from the dist folder
