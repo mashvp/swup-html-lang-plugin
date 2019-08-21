@@ -1,6 +1,6 @@
 {
   "name": "@mashvp/swup-html-lang-plugin",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Update the HTML lang attribute on Swup navigation",
   "main": "lib/index.js",
   "scripts": {
