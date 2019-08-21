@@ -21,7 +21,7 @@ import SwupHtmlLangPlugin from '@mashvp/swup-html-lang-plugin';
 or included from the dist folder
 
 ```html
-<script src="./dist/SwupHtmlLangPlugin.js"></script>
+<script src="./dist/MashvpSwupHtmlLangPlugin.js"></script>
 ```
 
 ## Usage
