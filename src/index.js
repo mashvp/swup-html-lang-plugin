@@ -18,9 +18,7 @@ export default class HtmlLangPlugin extends Plugin {
       const page = this.parser.parseFromString(originalContent, 'text/html');
       const lang = page.documentElement.getAttribute('lang');
 
-      if (document.documentElement.getAttribute('lang') !== lang) {
-        document.documentElement.setAttribute('lang', lang);
-      }
+      document.documentElement.setAttribute('lang', lang);
     });
   }
 
